@@ -14,3 +14,20 @@
 // let a = 20 , b = 200 , c = 2000; 
 
 // console.log(a+b+c)
+
+// =============================
+// ขอบเขตตัวแปร
+
+// local variable , Global variable
+
+// let a = 100;
+
+// function display(){
+//     let b = 50;
+//     console.log("A ในฟังค์ชั่น = " , a);
+//     console.log("B ในฟังค์ชั่น = " , b);
+// }
+
+// console.log("A นอกฟังค์ชั่น = ",a)
+// // console.log("B = ",b)
+// display()

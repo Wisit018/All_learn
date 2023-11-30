@@ -34,6 +34,21 @@
 // console.log(colors)
 // console.log(colors[2]) // ชุดข้อมูลที่ 2
 
+//=============================
 
+//Array Properties & Function
+
+// let color = ["red","blue","green"]
+// // let x = color.length // หาจำนวน Array
+// // let y = color.sort(); // เรียงลำดับสมาชิกใหม่ใน Array เรียงจากน้อยไปมาก
+
+// // let first = color[0];
+// // let last = color[color.length-1]
+
+// console.log("Before",color);
+
+// color.push("Yello")
+
+// console.log("After",color);
 
 

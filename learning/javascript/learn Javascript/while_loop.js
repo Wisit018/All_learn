@@ -71,3 +71,51 @@
 // }while(count>5);
 
 // =============================
+
+// for(let count = 1 ; count<=10;count++){
+//     if(count==5)break;
+//     console.log(count);
+// }
+
+// console.log("จบโปรแกรม")
+
+// =============================
+
+// เข้าถึงสมาชิกใน Array ด้วย For loop
+
+// =============================
+//ex1
+
+// let coler = ["แดง","นำ้เงิน","ฟ้า","เหลือง"]
+
+// // i = 0 i<5
+// // console.log(coler[0])
+// // console.log(coler[1])
+// // console.log(coler[2])
+// // console.log(coler[3])
+// // console.log(coler[4])  // เข้าถึงแบบปกติ
+
+// for(let i = 0; i<coler.length;i++){
+//     console.log(i);
+// }
+
+// =============================
+
+// เข้าถึงสมาชิกใน Array ด้วย ForEach
+
+// =============================
+// ex1
+
+let coler = ["แดง","นำ้เงิน","ฟ้า","เหลือง"]
+
+coler.forEach(mydata);
+
+function mydata(item){
+    console.log(item);
+}
+
+
+
+
+
+
