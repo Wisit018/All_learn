@@ -48,5 +48,17 @@
 
 // console.log(checkName)
 
+// =========================================
+// Confirm 
 
+// function deletedata(){
+//     let result =confirm("คุณต้องการลบข้อมูลหรือไม่ ?")
+//     if(result){
+//         console.log("ยืนยันการลบข้อมูล")
+//     }else{
+//         console.log("ยกเลิกการลบข้อมูล")
+//     }
+
+
+// }
 

@@ -106,13 +106,13 @@
 // =============================
 // ex1
 
-let coler = ["แดง","นำ้เงิน","ฟ้า","เหลือง"]
+// let coler = ["แดง","นำ้เงิน","ฟ้า","เหลือง"]
 
-coler.forEach(mydata);
+// coler.forEach(mydata);
 
-function mydata(item){
-    console.log(item);
-}
+// function mydata(item){
+//     console.log(item);
+// }
 
 
 

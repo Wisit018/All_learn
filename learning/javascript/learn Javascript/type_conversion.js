@@ -50,17 +50,17 @@
 // javascript Object
 
 //ex
-let product = {
-    name : "Mouse",
-    price : "1500",
-    color : "Black",
-    category : "computer",
-    size : "M",
-    display:function(){
-        return "ชื่อสินค้า ="+this.name,"ราคา = "+this.price+" หมวดหมู่ ="+this.category;
-    }
-}
+// let product = {
+//     name : "Mouse",
+//     price : "1500",
+//     color : "Black",
+//     category : "computer",
+//     size : "M",
+//     display:function(){
+//         return "ชื่อสินค้า ="+this.name,"ราคา = "+this.price+" หมวดหมู่ ="+this.category;
+//     }
+// }
 
-console.log(product.display())
+// console.log(product.display())
 
-console.log(product.name)
+// console.log(product.name)
